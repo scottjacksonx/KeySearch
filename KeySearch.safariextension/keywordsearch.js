@@ -32,7 +32,7 @@ function parseURL(url) {
 	var site = map[queryString.split("+")[0]];
 	
 	if (site != undefined) {
-		return site.replace("@@@", queryString.substr(queryString.split("+")[0].length));
+		return site.replace("@@@", queryString.substr(queryString.split("+")[0].length+1));
 	}
 	
 	return null;
