@@ -3,6 +3,7 @@ var map = {
 	"down": "http://downforeveryoneorjustme.com/@@@",
 	"e": "http://search.ebay.com/search/search.dll?satitle=@@@",
 	"ea": "http://search.ebay.com.au/search/search.dll?satitle=@@@",
+	"f": "http://www.flickr.com/search/?q=@@@",
 	"g": "http://www.google.com/search?q=@@@",
 	"gi": "http://google.com/images?q=@@@",
 	"gm": "http://maps.google.com/maps?oi=map&q=@@@",
