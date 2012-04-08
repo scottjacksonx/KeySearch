@@ -23,7 +23,7 @@ If what you enter into the address bar looks like a keyword search, KeySearch wi
 
 ## Future Work ##
 
-Gee, I really gotta let people customise their search keywords. Right now, there's a big ol' dictionary called `map` in `KeySearch.js` that contains all of the search keywords and what sites they correspond to. I borrowed Arne's convention of using `@@@` as a placeholder for the search query.
+Gee, I really gotta let people customise their search keywords. Right now, there's a big ol' dictionary called `map` in `keywordsearch.js` that contains all of the search keywords and what sites they correspond to. I borrowed Arne's convention of using `@@@` as a placeholder for the search query.
 
 [ama]: http://am.aurlien.net/
 [SafariKeywordSearch]: http://safariKeySearch.aurlien.net
